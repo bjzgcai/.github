@@ -7,7 +7,6 @@
 
 ## 🏷️ Badges
 
-![PhD Students](https://img.shields.io/badge/PhD%20Students-550%2B-blue)  
 ![Joint Labs](https://img.shields.io/badge/Joint%20Labs-10%2B-brightgreen)  
 ![Research Projects](https://img.shields.io/badge/Research%20Projects-40%2B-orange)  
 ![Focus: AI Core](https://img.shields.io/badge/Focus-AI%20Core%20Research-purple)  

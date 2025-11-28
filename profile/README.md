@@ -7,11 +7,31 @@
 
 ## 🏷️ Badges
 
-![Joint Labs](https://img.shields.io/badge/Joint%20Labs-10%2B-brightgreen)  
-![Research Projects](https://img.shields.io/badge/Research%20Projects-40%2B-orange)  
-![Focus: AI Core](https://img.shields.io/badge/Focus-AI%20Core%20Research-purple)  
-![Focus: AI x Natural Sciences](https://img.shields.io/badge/Focus-AI%20x%20Natural%20Sciences-lightgrey)  
-![Focus: AI x Social Sciences](https://img.shields.io/badge/Focus-AI%20x%20Social%20Sciences-yellow)  
+![Joint Labs](https://img.shields.io/badge/Joint%20Labs-10%2B-brightgreen)
+![Research Projects](https://img.shields.io/badge/Research%20Projects-40%2B-orange)
+![Focus: AI Core](https://img.shields.io/badge/Focus-AI%20Core%20Research-purple)
+![Focus: AI x Natural Sciences](https://img.shields.io/badge/Focus-AI%20x%20Natural%20Sciences-lightgrey)
+![Focus: AI x Social Sciences](https://img.shields.io/badge/Focus-AI%20x%20Social%20Sciences-yellow)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/BICLab/SpikingBrain-7B">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BICLab&repo=SpikingBrain-7B&theme=default&show_owner=true" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RLinf/RLinf">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RLinf&repo=RLinf&theme=default&show_owner=true" />
+</a>
+
+</div>
+
+**Browse by Research Area:** AI Core Research · AI × Natural Sciences · AI × Social Sciences
+
+📚 **[Complete Project Catalog →](projects.md)**
 
 ---
 
@@ -35,10 +55,10 @@ A research institute focused on **turning AI innovation into real-world impact**
 
 ## 🔗 Unified Approach
 
-**ZGCA + ZGCI = One Development Community**  
-- **Extreme Fundamentals** · **Extreme Applications** · **Extreme Interdisciplinarity**  
-- Seamless path from academic exploration to practical impact  
-- Faculty, research, and technology incubation tightly integrated  
+**ZGCA + ZGCI = One Development Community**
+- **Extreme Fundamentals** · **Extreme Applications** · **Extreme Interdisciplinarity**
+- Seamless path from academic exploration to practical impact
+- Faculty, research, and technology incubation tightly integrated
 
 ---
 
@@ -82,9 +102,9 @@ A research institute focused on **turning AI innovation into real-world impact**
 
 ## 📈 Progress & Momentum
 
-- **550+** PhD Students  
-- **10+** Joint Laboratories & Research Centers  
-- **40+** Research Projects  
+- **550+** PhD Students
+- **10+** Joint Laboratories & Research Centers
+- **40+** Research Projects
 
 ---
 

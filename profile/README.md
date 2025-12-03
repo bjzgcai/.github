@@ -17,11 +17,35 @@
 
 ## 🚀 Featured Projects
 
+<!-- OPTION A: Stars Only (Most Minimal) - CURRENTLY ACTIVE -->
+**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** ![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
+
+**[RLinf/RLinf](https://github.com/RLinf/RLinf)** ![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
+
+<!-- OPTION B: Table Format (Structured)
+| Project | Stars | Language |
+|---------|-------|----------|
+| **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** | ![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social) | ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B) |
+| **[RLinf/RLinf](https://github.com/RLinf/RLinf)** | ![](https://img.shields.io/github/stars/RLinf/RLinf?style=social) | ![](https://img.shields.io/github/languages/top/RLinf/RLinf) |
+-->
+
+<!-- OPTION C: Multi-line with Icons (Clear Separation)
 **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)**
-![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social) ![Forks](https://img.shields.io/github/forks/BICLab/SpikingBrain-7B?style=social) ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+⭐ ![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
+💻 ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
 
 **[RLinf/RLinf](https://github.com/RLinf/RLinf)**
-![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social) ![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=social) ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf)
+⭐ ![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
+💻 ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf)
+-->
+
+<!-- OPTION D: Compact Badges (No Social Style)
+**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)**
+![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B) ![](https://img.shields.io/github/forks/BICLab/SpikingBrain-7B) ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+
+**[RLinf/RLinf](https://github.com/RLinf/RLinf)**
+![](https://img.shields.io/github/stars/RLinf/RLinf) ![](https://img.shields.io/github/forks/RLinf/RLinf) ![](https://img.shields.io/github/languages/top/RLinf/RLinf)
+-->
 
 📚 [View all projects](projects.md)
 

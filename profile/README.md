@@ -17,21 +17,33 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### [SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)
 
-<a href="https://github.com/BICLab/SpikingBrain-7B">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BICLab&repo=SpikingBrain-7B&theme=default&show_owner=true" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/RLinf/RLinf">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RLinf&repo=RLinf&theme=default&show_owner=true" />
-</a>
+![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
+![Forks](https://img.shields.io/github/forks/BICLab/SpikingBrain-7B?style=social)
+![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+![License](https://img.shields.io/github/license/BICLab/SpikingBrain-7B)
 
-</div>
+Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture.
 
-**Browse by Research Area:** AI Core Research · AI × Natural Sciences · AI × Social Sciences
+**Lab:** BICLab | **Field:** Neuromorphic Computing
 
-📚 **[Complete Project Catalog →](projects.md)**
+---
+
+### [RLinf](https://github.com/RLinf/RLinf)
+
+![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
+![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=social)
+![Language](https://img.shields.io/github/languages/top/RLinf/RLinf)
+![License](https://img.shields.io/github/license/RLinf/RLinf)
+
+Production-grade reinforcement learning infrastructure for research and industrial applications.
+
+**Lab:** RLinf Lab | **Field:** Reinforcement Learning
+
+---
+
+📚 **[Complete Project Catalog →](projects.md)** | **Browse by:** AI Core Research · AI × Natural Sciences · AI × Social Sciences
 
 ---
 

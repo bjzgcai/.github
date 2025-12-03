@@ -17,34 +17,40 @@
 
 ## 🚀 Featured Projects
 
-<!-- OPTION A: Stars Only (Most Minimal) - CURRENTLY ACTIVE -->
-**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** ![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
-
-**[RLinf/RLinf](https://github.com/RLinf/RLinf)** ![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
-
-<!-- OPTION B: Table Format (Structured)
-| Project | Stars | Language |
-|---------|-------|----------|
-| **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** | ![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social) | ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B) |
-| **[RLinf/RLinf](https://github.com/RLinf/RLinf)** | ![](https://img.shields.io/github/stars/RLinf/RLinf?style=social) | ![](https://img.shields.io/github/languages/top/RLinf/RLinf) |
--->
-
-<!-- OPTION C: Multi-line with Icons (Clear Separation)
+<!-- OPTION 1: Minimal Inline with Flat Badges (CURRENTLY ACTIVE) -->
 **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)**
-⭐ ![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
-💻 ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B?style=flat-square&color=orange)
 
 **[RLinf/RLinf](https://github.com/RLinf/RLinf)**
-⭐ ![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
-💻 ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf)
+![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf?style=flat-square&color=orange)
+
+<!-- OPTION 2: Card Style with for-the-badge
+### [BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)
+![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=for-the-badge&logo=github&logoColor=white) ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B?style=for-the-badge)
+
+### [RLinf/RLinf](https://github.com/RLinf/RLinf)
+![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=for-the-badge&logo=github&logoColor=white) ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf?style=for-the-badge)
 -->
 
-<!-- OPTION D: Compact Badges (No Social Style)
+<!-- OPTION 3: Clean Table Format
+| Repository | Stats |
+|------------|-------|
+| **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** | ![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=flat-square) ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B?style=flat-square) |
+| **[RLinf/RLinf](https://github.com/RLinf/RLinf)** | ![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square) ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf?style=flat-square) |
+-->
+
+<!-- OPTION 4: Ultra Minimal (Name + Social Stars Only)
+**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** ![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social)
+
+**[RLinf/RLinf](https://github.com/RLinf/RLinf)** ![](https://img.shields.io/github/stars/RLinf/RLinf?style=social)
+-->
+
+<!-- OPTION 5: Compact with Plastic Style
 **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)**
-![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B) ![](https://img.shields.io/github/forks/BICLab/SpikingBrain-7B) ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=plastic&logo=github) ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B?style=plastic)
 
 **[RLinf/RLinf](https://github.com/RLinf/RLinf)**
-![](https://img.shields.io/github/stars/RLinf/RLinf) ![](https://img.shields.io/github/forks/RLinf/RLinf) ![](https://img.shields.io/github/languages/top/RLinf/RLinf)
+![](https://img.shields.io/github/stars/RLinf/RLinf?style=plastic&logo=github) ![](https://img.shields.io/github/languages/top/RLinf/RLinf?style=plastic)
 -->
 
 📚 [View all projects](projects.md)

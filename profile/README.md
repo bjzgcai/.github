@@ -17,10 +17,12 @@
 
 ## 🚀 Featured Projects
 
-**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)** · ![](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social) · ![](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
+**[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B)**
+![Stars](https://img.shields.io/github/stars/BICLab/SpikingBrain-7B?style=social) ![Language](https://img.shields.io/github/languages/top/BICLab/SpikingBrain-7B)
 Spiking neural network based 7B LLM with hybrid attention and MoE
 
-**[RLinf/RLinf](https://github.com/RLinf/RLinf)** · ![](https://img.shields.io/github/stars/RLinf/RLinf?style=social) · ![](https://img.shields.io/github/languages/top/RLinf/RLinf)
+**[RLinf/RLinf](https://github.com/RLinf/RLinf)**
+![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=social) ![Language](https://img.shields.io/github/languages/top/RLinf/RLinf)
 Production-grade RL infrastructure for research and industry
 
 📚 [View all projects](projects.md)

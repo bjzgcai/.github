@@ -148,7 +148,8 @@ A research institute focused on **turning AI innovation into real-world impact**
 ## 🎓 Partner Universities
 
 - Tsinghua University  
-- Peking University  
+- Peking University
+- Shanghai Jiao Tong University
 - Chinese Academy of Sciences  
 - Beihang University  
 - Beijing Institute of Technology  
